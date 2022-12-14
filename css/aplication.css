@@ -1,0 +1,41 @@
+.header {
+    text-align: center;
+    background-color: #73caf3;
+    color: white;
+}
+
+.border-1 {
+    border: 1px solid black;
+    margin: 1rem 0 0 0;
+    border-radius: 5px;
+}
+
+.img-fluid {
+    width: 9rem;
+    height: auto;
+    padding: 0.5rem;
+}
+
+#btn-wrapper {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#btnfooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+#form2 {
+    display: none;
+}
+
+#form3 {
+    display: none;
+}
+
+#form4 {
+    display: none;
+}
